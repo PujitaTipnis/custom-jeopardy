@@ -1,0 +1,357 @@
+{
+    "boardQuestions": {
+        "Music": [
+            { 
+                "player": "Dad",
+                "question": "One of the films that revolutionized Hindi film music was 'Teesri Manzil'. This film marked the first big hit of a great music director, can you name him?",
+                "answer": "R.D. Burman"
+            },
+            { 
+                "player": "Mom",
+                "question": "One of the superstars of Bollywood was Rajesh Khanna. Who was the famous singer who was known as the voice of Rajesh Khanna?",
+                "answer": "Kishore Kumar"
+            },
+            { 
+                "player": "Tai",
+                "question": "The song 'Remember Me' from this animated film won an Oscar for Kristen Anderson-Lopez & Robert Lopez",
+                "answer": "Coco"
+            },
+            { 
+                "player": "Ashuda",
+                "question": "In 'Take Me Home Country Roads', John Denver sang 'Almost heaven [this state]'",
+                "answer": "West Virginia"
+            },
+            {   
+                "player": "Shamu",
+                "question": "In May 2000, she released her second album 'Oops!...I Did It Again'",
+                "answer": "Britney Spears"
+            },
+            { 
+                "player": "Saurabh",
+                "question": "Both big hits in 2016, the songs 'Sorry' and 'Love Yourself' were released by which Canadian singer and songwriter?",
+                "answer": "Justin Bieber"
+            },
+            { 
+                "player": "Shuchu",
+                "question": "This tune from 'Frozen' begins 'The snow glows white on the mountain tonight...'",
+                "answer": "Let it go"
+            },
+            { 
+                "player": "Sunil",
+                "question": "This English rock band was nicknamed 'The Mop Tops' because of the peculiar haircut they all had",
+                "answer": "The Beatles"
+            },
+            { 
+                "player": "Akshay",
+                "question": "That's Guy-Manuel de Homem-Christo & Thomas Bangalter under the helmets of the robots of this electronic duo",
+                "answer": "Daft Punk"
+            }
+        ],
+        "Movies": [
+            {
+                "player": "Dad",
+                "question": "The head of what kind of animal is front-and-center in an infamous scene from 'The Godfather'?",
+                "answer": "A horse"
+            },
+            {
+                "player": "Mom",
+                "question": "For which 1964 musical blockbuster did Julie Andrews win the Academy Award for Best Actress?",
+                "answer": "Mary Poppins"
+            },
+            {
+                "player": "Tai",
+                "question": "At the beginning of this sequel, Tommy Lee Jones is postal worker Kevin Brown who has no memory of being Agent K",
+                "answer": "Men In Black"
+            },
+            {
+                "player": "Ashuda",
+                "question": "Leonardo DiCaprio was just dreamy as a master of psychic espionage in this flick",
+                "answer": "Inception"
+            },
+            {
+                "player": "Shamu",
+                "question": "Ron & Harry use this unusual transport to get to Hogwarts for their second year",
+                "answer": "A flying car"
+            },
+            {
+                "player": "Saurabh",
+                "question": "Aaron Sorkin won an Oscar for writing what 2010 drama about the creation of Facebook?",
+                "answer": "The Social Network"
+            },
+            {
+                "player": "Shuchu",
+                "question": "Laurence Fishburne shows computer hacker Keanu Reeves that the world isn't what it seems in this film",
+                "answer": "The Matrix"
+            },
+            {
+                "player": "Sunil",
+                "question": "In Justice League, Jason Momoa plays this hero of Atlantis",
+                "answer": "Aquaman"
+            },
+            {
+                "player": "Akshay",
+                "question": "What song plays over the opening credits of 'Guardians of the Galaxy'?",
+                "answer": "'Come and Get Your Love' by Redbone"
+            }
+        ],
+        "TV Shows": [
+            {
+                "player": "Dad",
+                "question": "TV show based in space, who's tag line end was 'to boldly go where no one has gone before'",
+                "answer": "Star Trek"
+            },
+            {
+                "player": "Mom",
+                "question": "Ridge Forrester and Brooke Logan are characters from which 90's TV show?",
+                "answer": "The Bold and The Beautiful"
+            },
+            {
+                "player": "Tai",
+                "question": "What is the name of Phoebe's alter-ego in F.R.I.E.N.D.S.?",
+                "answer": "Regina Falange"
+            },
+            {
+                "player": "Ashuda",
+                "question": "On 'Game of Thrones', Gregor Clegane is 'The Mountain' and his brother Sandor is known as this",
+                "answer": "The Hound"
+            },
+            {
+                "player": "Shamu",
+                "question": "In the TV show 'Modern Family', which country is Gloria from?",
+                "answer": "Columbia"
+            },
+            {
+                "player": "Saurabh",
+                "question": "The character, Kuiil, in this TV show often says 'I have spoken'",
+                "answer": "Mandalorian"
+            },
+            {
+                "player": "Shuchu",
+                "question": "What does Hercule Poirot use to stiffen his mustache in the TV show?",
+                "answer": "Wax"
+            },
+            {
+                "player": "Sunil",
+                "question": "In the Spanish TV series, 'Money Heist', how many people did the professor recruit to help him carry out his plan?",
+                "answer": "8"
+            },
+            {
+                "player": "Akshay",
+                "question": "In the series 'Narcos Mexico', which character is also the narrator of the show?",
+                "answer": "DEA agent Steve Murphy"
+            }
+        ],
+        "Audio": [
+            {
+                "player": "Dad",
+                "question": "Which movie is this conversation from? [play audio]",
+                "answer": "Padosan"
+            },
+            {
+                "player": "Mom",
+                "question": "Which song is this? [play audio]",
+                "answer": "Baar baar dekho"
+            },
+            {
+                "player": "Tai",
+                "question": "Complete this dialogue: [play audio]",
+                "answer": "Aankhen nikaalke gotiyaan khelta hun main"
+            },
+            {
+                "player": "Ashuda",
+                "question": "Complete this dialogue: [play audio]",
+                "answer": "No sorry, no thank you"
+            },
+            {
+                "player": "Shamu",
+                "question": "Which advertisement is this audio of? [play audio]",
+                "answer": "Cadbury Gems"
+            },
+            {
+                "player": "Saurabh",
+                "question": "Which movie is this dialogue from? [play audio]",
+                "answer": "Batman Begins"
+            },
+            {
+                "player": "Shuchu",
+                "question": "Which song is this, and from which movie? [play audio]",
+                "answer": "Sadka, from 'I hate love stories'"
+            },
+            {
+                "player": "Sunil",
+                "question": "Which song is this, and from which movie? [play audio]",
+                "answer": "Aankh maarey, from 'Simmba'"
+            },
+            {
+                "player": "Akshay",
+                "question": " Which movie is this dialogue from, and what is the character's name that says this?",
+                "answer": "Movie: Star Wars; Character: Jar Jar Binks"
+            }
+        ],
+        "Who Dis?": [
+            {
+                "player": "Card A",
+                "question": "In 2011, this person won an all paid trip for two to London for a Bon Jovi concert",
+                "answer": "Akshay"
+            },
+            {
+                "player": "Card B",
+                "question": " When in 9th std., this person was suspended from school for a week for bursting crackers in class with friends for protesting to having their PT class hijacked multiple times. One of the friends forged each of their parent's signatures and neither mentioned at home about what happened and instead played cricket during the suspension",
+                "answer": "Sunil"
+            },
+            {
+                "player": "Card C",
+                "question": "As a kid, this person painted half of a bedside lamp in order to paint it grey. Unfortunately, it looked terrible, so he/she turned the lamp facing the good side so that no one would find out.",
+                "answer": "Shamu"
+            },
+            {
+                "player": "Card D",
+                "question": "This person and brother-in-law couldn't help but burst into muffled laughter when they heard that a relative fell into the drainage and was hurt by the lid.",
+                "answer": "Mom"
+            },
+            {
+                "player": "Card E",
+                "question": "This person went up their apartment building's stairs to hide and scared the spouse from behind as he/she was trying to open the main door. And loves scaring the spouse at every oppurtunity.",
+                "answer": "Shuchu"
+            },
+            {
+                "player": "Card F",
+                "question": "On their first anniversary, this person came home early, dressed well and waited with a dozen red roses and a gift only to get a call 2 hours later from the spouse about a flat tire. He/she then dressed back into regular clothes to save his/her damsel(/gentleman) in distress.",
+                "answer": "Ashuda"
+            },
+            {
+                "player": "Card G",
+                "question": "During a work trip to Italy, one day, this person withdrew 700,000 liras at the bank. The bank teller warned asking the person to guard the money safe. Wondering why he'd say that and thinking that the hotel was just 5 minutes away, he/she decided to ignore that and continued back to the hotel. On the way, a Hispanic woman came begging for money. The person handed out some money and continued walking. On reaching the hotel, the person realised that 100,000 liras were missing and were stolen by the beggar.",
+                "answer": "Dad"
+            },
+            {
+                "player": "Card H",
+                "question": "When in school, not being allowed to go out of school during recess, this person and friends used to go behind the school and jump over the compound wall to have lunch at a Shwarma place, and then climb back in before recess ended",
+                "answer": "Saurabh"
+            },
+            {
+                "player": "Card I",
+                "question": " As a kid, this person and friends sprinkled powder all over an Aunt's bedroom and put Nivea all over her mirror",
+                "answer": "Tai"
+            }
+        ]
+    },
+    "players": {
+        "Leading": { "name": "Leading", "score": 0 },
+        "Akshay": { "name": "Akshay", "score": 0 },
+        "Dad": { "name": "Dad", "score": 0 },
+        "Mom": { "name": "Mom", "score": 0 },
+        "Tai": { "name": "Tai", "score": 0 },
+        "Ashuda": { "name": "Ashuda", "score": 0 },
+        "Shamu": { "name": "Shamu", "score": 0 },
+        "Saurabh": { "name": "Saurabh", "score": 0 },
+        "Shuchu": { "name": "Shuchu", "score": 0 },
+        "Sunil": { "name": "Sunil", "score": 0 }
+    },
+    "rapidFireQuestions": [
+        {
+            "Team A": [
+                {
+                    "question": "In what 1976 thriller does Robert De Niro famously say 'You talkin’ to me?'",
+                    "answer": "Taxi Driver"
+                },
+                {
+                    "question": "Which movie was incorrectly announced as the winner of Best Picture at the 2017 Academy Awards, during the greatest Oscars flub of all time?",
+                    "answer": "La La Land"
+                },
+                {
+                    "question": "Joaquin Phoenix received his first Oscar nomination for playing Roman emperor Commodus in what 2000 Oscar-winning epic?",
+                    "answer": "Gladiator"
+                },
+                {
+                    "question": "Before sinking his teeth into a 'Twilight' role, he played Cedric Diggory in a Harry Potter film",
+                    "answer": "Robert Pattinson"
+                },
+                {
+                    "question": "In 'Chaalbaaz' which actress played the double role of separated twin sisters? ",
+                    "answer": "Sridevi"
+                },
+                {
+                    "question": "The Bodyguard soundtrack spawned her hit 'I Will Always Love You'",
+                    "answer": "Whitney Houston"
+                },
+                {
+                    "question": "Any cat could tell you that she teaches Transfiguration magic at Hogwarts",
+                    "answer": "Minerva McGonagall"
+                },
+                {
+                    "question": "In 'Sholay', what was the name of Basanti's horse?",
+                    "answer": "Dhano"
+                },
+                {
+                    "question": "'Bye Bye Bye' from the album 'No Strings Attached' was a hit for this group",
+                    "answer": "N'Sync"
+                },
+                {
+                    "question": "The male voice in the song 'Mehbooba' in 'Sholay' was of...?",
+                    "answer": "R.D. Burman"
+                },
+                {
+                    "question": "This group's 'Hotel California' album spawned 2 No. 1 hits 'New Kid In Town' & the title tune",
+                    "answer": "The Eagles"
+                },
+                {
+                    "question": "Which is the first Indian film with sound?",
+                    "answer": "Alam Ara"
+                }
+            ]
+        },
+        {
+            "Team B": [
+                {
+                    "question": "Who wrote the screenplay for Rocky?",
+                    "answer": "Sylvester Stallone"
+                },
+                {
+                    "question": "'Barsaat' was one of the hit movies directed by Raj Kapoor. Who starred opposite Raj Kapoor in the movie?",
+                    "answer": "Nargis"
+                },
+                {
+                    "question": "What American writer/director starred in several iconic European-produced 'Spaghetti Westerns'?",
+                    "answer": "Clint Eastwood"
+                },
+                {
+                    "question": "In 'The Matrix', does Neo take the blue pill or the red pill?",
+                    "answer": "Red"
+                },
+                {
+                    "question": "In the Priyadarshan directed movie 'Hulchul' about two warring families, which movie is Anjali (Kareena Kapoor) and her family watching when Jai (Akshaye Khanna) enters the house from the window? ",
+                    "answer": "Bobby"
+                },
+                {
+                    "question": "How many suns does Luke’s home planet of Tatooine have in Star Wars?",
+                    "answer": "Two"
+                },
+                {
+                    "question": "What Martin Scorsese movie holds the all-time record for F-bombs?",
+                    "answer": "The Wolf of Wall Street "
+                },
+                {
+                    "question": "This actor started his acting career unexpectedly with the 1936 movie 'Jeevan Naiyya' opposite Devika Rani. He went on to become one of the most celebrated actors of Indian Cinema giving hits like 'Kismet', 'Achhyut Kanya' and 'Mahal'. He is also fondly called 'Dada Moni' Who is he?",
+                    "answer": "Ashok Kumar"
+                },
+                {
+                    "question": "If a fingerboard has ridges to help players find their notes it may be called this kind of board instead",
+                    "answer": "Fretboard"
+                },
+                {
+                    "question": "This band with an Appetite for Destruction is known as G N' R",
+                    "answer": "Guns N Roses"
+                },
+                {
+                    "question": "Which was the first film in which Amitabh and Jaya Bachchan worked together?",
+                    "answer": "Guddi"
+                },
+                {
+                    "question": "This '60s singer-guitarist called 'Foxy Lady' about the only happy song he'd ever written",
+                    "answer": "Jimi Hendrix"
+                }
+            ]
+        }
+    ]
+}

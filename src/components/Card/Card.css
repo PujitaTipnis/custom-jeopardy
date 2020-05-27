@@ -1,0 +1,11 @@
+.cardContainer {
+    border: 1px solid #080d33;
+    border-radius: 3px;
+    padding: 1rem;
+    margin: 1rem;
+    width: 11rem;
+    text-align: center;
+    -webkit-box-shadow: -6px 19px 9px -9px rgba(209,202,209,1);
+    -moz-box-shadow: -6px 19px 9px -9px rgba(209,202,209,1);
+    box-shadow: -6px 19px 9px -9px rgba(209,202,209,1);
+}

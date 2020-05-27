@@ -1,0 +1,27 @@
+.playerContainer {
+    border: 1px solid #080d33;
+    color: #080d33;
+    width: 8.5rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 3px;
+}
+
+h4, h3 {
+    margin: 0;
+    text-align: center;
+}
+
+.leader {
+    color: #17a2b8;
+}
+
+.buttonWrapper {
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem 0 0;
+}
+
+.leaderDetail {
+    vertical-align: middle;
+}

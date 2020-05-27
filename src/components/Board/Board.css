@@ -1,0 +1,14 @@
+.boardContainer {
+    background-color: #fff;
+    border-radius: 5px;
+    width: 66rem;
+    color: #080d33;
+    margin-bottom: 2rem;
+}
+
+.categories {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 1rem 0;
+}
